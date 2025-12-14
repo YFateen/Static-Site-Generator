@@ -1,1 +1,1 @@
-This is my ReadMe
+Static site Generator I created for Boot.dev
